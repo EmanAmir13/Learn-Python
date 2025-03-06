@@ -1,0 +1,9 @@
+*.pyc*
+*.xml
+/.idea
+__pycache__
+.idea/
+*.iml
+myenv/
+
+db.sqlite3
