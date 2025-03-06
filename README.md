@@ -1,2 +1,2 @@
-# Learn-Python
-A branh to learn python and its farmeworks
+# Learn-Django
+A branch to learn django and its concepts
